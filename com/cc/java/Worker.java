@@ -4,12 +4,12 @@ public class Worker extends HoneyBee{
 
     @Override
     public String doYourJob() {
-        return "I'm a worker bee, I work all day!";
+        return "I'm a worker bee, work work";
     }
 
     @Override
     public String fly() {
-        return "I can fly at 14mph!";
+        return "I fly from flower to flower!";
     }
 
 }
